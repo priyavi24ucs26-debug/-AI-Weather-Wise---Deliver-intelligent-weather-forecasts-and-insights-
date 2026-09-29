@@ -1,3 +1,4 @@
+Weatherwise-ai demo video link:https://drive.google.com/file/d/19E20jsyYuj_3tExahYYvKITsjtEar-z4/view?usp=drivesdk
 # AI WeatherWise API
 
 AI WeatherWise API is a RESTful backend application built with **Node.js, Express.js, MongoDB, and Mongoose**. It features secure JWT authentication with password hashing (bcrypt), custom favorite locations tracking, and Generative AI integrations (Google Gemini) to deliver intelligent weather summaries and personalized recommendations based on real-time metrics.
